@@ -1,0 +1,39 @@
+body{
+    background-color: orange
+}
+body {
+    margin: 0%;
+}
+section {
+    padding-left: 10px;
+}
+
+nav { 
+    word-spacing: 80px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+    font-size: xx-large;
+    font-style: unset;
+    padding-left: 80px;
+}
+
+h1 h2 h3 h4 {
+    color: white;
+}
+
+nav a {
+text-decoration: none;
+color: green;
+}
+.yeo {
+ text-align: center;   
+}
+.kolo {
+    text-align: center;
+}
+p {
+font-size: xx-large;
+}
+u {
+    font-size: x-large;
+}
